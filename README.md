@@ -1,2 +1,4 @@
 # MESD
 MESD: EXPLORING OPTICAL FLOW ASSESSMENT ON EDGE OF MOTION OBJECTS WITH MOTION EDGE STRUCTURE DIFFERENCE
+
+The optical flow estimation has been assessed in various applications. In this paper, we propose a novel method named motion edge structure difference(MESD) to assess estimation errors of optical flow fields on edge of motion objects. We implement comparison experiments for MESD by evaluating five representative optical flow algorithms on four popular benchmarks: MPI Sintel, Middlebury, KITTI 2012 and KITTI 2015. Our experimental results demonstrate that MESD can reasonably and discriminatively assess estimation errors of optical flow fields on motion edge. The results indicate that MESD could be a supplementary metric to existing general assessment metrics for evaluating optical flow algorithms in related computer vision applications. 
